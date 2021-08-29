@@ -1,3 +1,3 @@
 # quickEat
 
-This is food ordering and delivery app built using react native
+ This is a food ordering and delivery app built using react native 
